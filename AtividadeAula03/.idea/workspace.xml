@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd450dac-0bea-4181-80de-f40d1aa5a3e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ApplicationConfigurator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/WinCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/WinFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/HTMLButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/WebDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/WindowsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Database.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2t5NN3gVOSEW8XkeoMjTwK8yfqZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.ApplicationConfigurator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd450dac-0bea-4181-80de-f40d1aa5a3e2" name="Changes" comment="" />
+      <created>1739637936991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739637936991</updated>
+    </task>
+    <servers />
+  </component>
+</project>

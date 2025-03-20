@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fd53a9e-f990-40db-bdbf-d27d6ab8d0ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/ApplicationConfigurator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/WinCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/AbstractFactory/WinFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Builder/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/HTMLButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/WebDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/FactoryMethod/WindowsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Prototype/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Prototype/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Singleton/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtividadeAula03/src/Singleton/Database.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2t5N3aLzynKjTqDvgr9VzMil9iQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/ADS3-PadroesDeProjeto&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd53a9e-f990-40db-bdbf-d27d6ab8d0ea" name="Changes" comment="" />
+      <created>1739637778425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739637778425</updated>
+    </task>
+    <servers />
+  </component>
+</project>
